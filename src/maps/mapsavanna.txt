@@ -1,0 +1,12 @@
+XXXXXXXXXXXXXXXXXXXXXXXX
+X______________________X
+XCXXXXX_XXXXXX_XXXX_XX_X
+X_X____________________X
+X_X_XXXXX__XXX__XXX__X_X
+X_X_XF____X___XF_X___X_X
+X_X_X_____XXXXX__X___X_X
+X_X_XXXXX_X___X__X___X_X
+X_X2________3__________X
+XFX___XX___X____XXXXX__X
+X1__X____X___X_______F_X
+XXXXXXXXXXXXXXXXXXXXXXXX
