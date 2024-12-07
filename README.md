@@ -45,7 +45,7 @@ Check out the action in our demo video! Witness the Black Cat in action, evading
    git clone https://github.com/your-username/Project-StravingCatGame.git
    cd Project-StravingCatGame/src
    ```
-3. Open the StartGame.java file in an editor (e.g., Visual Studio Code):
+3. Open the StartGame.java file:
    ```bash
    code StartGame.java
    ```
