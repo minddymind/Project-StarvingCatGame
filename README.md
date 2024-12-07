@@ -49,13 +49,14 @@ Check out the action in our demo video! Witness the Black Cat in action, evading
    ```bash
    code StartGame.java
    ```
-## Collaborators 🤝
+## Team Member 🤝
 
 Meet the amazing team behind **Straving-Cat-Game**:
 
-|   GitHub Profile                           | Role                |
-|--------------------------------------------|---------------------|
-| [**MMJIIIi**](https://github.com/MMJIIIi)  | Designer            |
-| [**nnyPRO**](https://github.com/nnyPRO)    | Developer           |
-| [**ggodcatt**](https://github.com/ggodcatt)| Designer            |
+Name                         | GitHub Profile                                    | Role                |
+-----------------------------|---------------------------------------------------|---------------------|
+Kanokwan Mingkwan            | [**MMJIIIi**](https://github.com/MMJIIIi)         | Designer            |
+Mesanee Laihuang             | [**nnyPRO**](https://github.com/nnyPRO)           | Developer           |
+Warisa Narata                | [**ggodcatt**](https://github.com/ggodcatt)       | Designer            |
+Chananchida Prathum          | [**minddymind**](https://github.com/minddymind)   | Developer           |
 
