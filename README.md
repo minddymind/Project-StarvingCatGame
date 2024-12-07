@@ -27,9 +27,7 @@ Your score is the key to progressing through the game. Each level has a **differ
 ## Gameplay Demo:
 Check out the action in our demo video! Witness the Black Cat in action, evading danger and gobbling up fish. Who will come out on top? Watch the video below for a sneak peek into the **Straving-Cat-Game** experience!
 
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1wRT1DZVfcq2nm9dClRsmRhJZTqf1CM-t/view?usp=sharing" type="video/mp4">
-</video>
+[Watch the Gameplay Demo](https://drive.google.com/file/d/1wRT1DZVfcq2nm9dClRsmRhJZTqf1CM-t/view?usp=sharing)
 
 ## How to install
 it is coming soon!
