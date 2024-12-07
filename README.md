@@ -1,9 +1,10 @@
-# Straving-Cat-Game: A Thrilling Adventure of Survival and Speed!
+# 🐱 Straving-Cat-Game: A Thrilling Adventure of Survival and Speed! 🐶
 
 Embark on an exciting, fast-paced journey with the **Straving Cat**, where your reflexes and strategy are the key to survival! Inspired by the classic Pac-Man style, this game is reimagined with a sleek, vibrant UI designed to captivate Gen-Z and Gen-Alpha players. Get ready for a rollercoaster of fun with **three unique levels** that challenge your agility and wit!
 
 ## Character Rundown:
 - **Black Cat**: You control this agile and clever feline using the **WASD** or **Arrow keys**. Your goal? Eat as many fish as you can while dodging dangerous dogs! Can you escape the chase and survive?
+![Black cat](https://drive.google.com/file/d/1JjGC42Yd3nz6LaxpQle2ItXrEHXOb6Ji/view?usp=sharing)
 - **Grey Dog**: The fastest of all enemies, this greyhound is relentless! You’ll need quick reflexes to outrun it or plan your escape route carefully.
 - **Cream Dog**: Not as fast as the Grey Dog, but still a formidable threat. Don't get too comfortable!
 - **Brown Dog**: A sneaky and unpredictable foe, watch out as it tries to corner you.
@@ -28,6 +29,8 @@ Your score is the key to progressing through the game. Each level has a **differ
 Check out the action in our demo video! Witness the Black Cat in action, evading danger and gobbling up fish. Who will come out on top? Watch the video below for a sneak peek into the **Straving-Cat-Game** experience!
 
 [Watch the Gameplay Demo](https://drive.google.com/file/d/1wRT1DZVfcq2nm9dClRsmRhJZTqf1CM-t/view?usp=sharing)
+
+## Tech Stack
 
 ## How to install
 it is coming soon!
