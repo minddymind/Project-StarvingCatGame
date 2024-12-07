@@ -55,8 +55,8 @@ Meet the amazing team behind **Straving-Cat-Game**:
 
 Name                         | GitHub Profile                                    | Role                |
 -----------------------------|---------------------------------------------------|---------------------|
-Kanokwan Mingkwan            | [**MMJIIIi**](https://github.com/MMJIIIi)         | Designer            |
-Mesanee Laihuang             | [**nnyPRO**](https://github.com/nnyPRO)           | Developer           |
+Kanokwan Mingkhuan            | [**MMJIIIi**](https://github.com/MMJIIIi)        | Designer            |
 Warisa Narata                | [**ggodcatt**](https://github.com/ggodcatt)       | Designer            |
+Mesanee Laihuang             | [**nnyPRO**](https://github.com/nnyPRO)           | Developer           |
 Chananchida Prathum          | [**minddymind**](https://github.com/minddymind)   | Developer           |
 
