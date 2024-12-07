@@ -55,7 +55,7 @@ Meet the amazing team behind **Straving-Cat-Game**:
 
 |   GitHub Profile                           | Role                |
 |--------------------------------------------|---------------------|
-| [**User 1**](https://github.com/MMJIIIi)   | Designer            |
-| [**User 2**](https://github.com/nnyPRO)    | Developer           |
-| [**User 3**](https://github.com/ggodcatt)  | Designer            |
+| [**MMJIIIi**](https://github.com/MMJIIIi)  | Designer            |
+| [**nnyPRO**](https://github.com/nnyPRO)    | Developer           |
+| [**ggodcatt**](https://github.com/ggodcatt)| Designer            |
 
