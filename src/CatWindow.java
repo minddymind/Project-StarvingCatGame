@@ -55,6 +55,7 @@ public class CatWindow extends JFrame {
                 sb.append(line).append('\n');
             }
             mapStr = sb.toString();
+            sc.close();
         } catch (Exception e) {
             System.err.println("Error Reading Map File !");
         }

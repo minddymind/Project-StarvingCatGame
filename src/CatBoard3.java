@@ -60,8 +60,6 @@ public class CatBoard3 extends JPanel {
         strawberry = new ArrayList<>();
         dog = new ArrayList<>();
 
-        URL sound1;
-
         if (!isCustom) {
             for (int i = 0; i < move_x; i++) {
                 for (int j = 0; j < move_y; j++) {

@@ -1,10 +1,8 @@
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
 
-public class StartGame implements KeyListener {
+public class StartGame {
     private final JFrame frame;
 
     public static void main(String[] args) {
@@ -12,10 +10,12 @@ public class StartGame implements KeyListener {
     }
 
     public StartGame() {
-        // set Frame show in computer
+        // Set Frame and image
         ImageIcon img = new ImageIcon(this.getClass().getResource("/images/screen.png"));
         JLabel label = new JLabel(img);
         label.setSize(710, 410);
+
+        // Create "START GAME" button
         JButton startButton = new JButton("START GAME");
         startButton.setContentAreaFilled(true);
         startButton.setBounds(300, 250, 100, 40);
@@ -25,11 +25,12 @@ public class StartGame implements KeyListener {
         startButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                new Rule();
-                frame.dispose();
+                new Rule();  // Open the Rule window
+                frame.dispose();  // Close the current frame
             }
         });
 
+        // Create "EXIT" button
         JButton exitButton = new JButton("EXIT");
         exitButton.setContentAreaFilled(true);
         exitButton.setBorderPainted(true);
@@ -37,15 +38,18 @@ public class StartGame implements KeyListener {
         exitButton.setBounds(300, 300, 100, 40);
         exitButton.setBorder(null);
         exitButton.addActionListener(new ActionListener() {
+            @Override
             public void actionPerformed(ActionEvent e) {
-                keyTyped(null);
+                System.exit(0);  // Exit the application when "EXIT" is clicked
             }
         });
 
+        // Add buttons to the label
         label.add(startButton);
         label.add(exitButton);
 
-        frame = new JFrame("Game Over");
+        // Set up the frame
+        frame = new JFrame("Starving Cat Game");
         frame.add(label);
         frame.setSize(710, 440);
         frame.setLayout(null);
@@ -53,20 +57,4 @@ public class StartGame implements KeyListener {
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
-
-    @Override
-    public void keyPressed(KeyEvent e) {
-
-    }
-
-    @Override
-    public void keyReleased(KeyEvent e) {
-
-    }
-
-    @Override
-    public void keyTyped(KeyEvent e) {
-        System.exit(0);
-    }
 }
-

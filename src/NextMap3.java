@@ -16,8 +16,10 @@ public class NextMap3 {
         JLabel label = new JLabel(vicImage);
         label.setSize(710, 370);
 
+        // "Next Map" Button
         JButton startButton = new JButton("Next Map");
         startButton.setContentAreaFilled(true);
+        startButton.setBackground(new Color(0, 153, 76)); // Set the background color (green)
         startButton.setBounds(550, 310, 100, 40);
         startButton.setBorder(null);
         startButton.addActionListener(new ActionListener() {
@@ -27,8 +29,10 @@ public class NextMap3 {
             }
         });
 
+        // "Back to Home" Button
         JButton exitButton = new JButton("Back to Home");
         exitButton.setContentAreaFilled(true);
+        exitButton.setBackground(new Color(204, 51, 51)); // Set the background color (red)
         exitButton.setBounds(50, 310, 100, 40);
         exitButton.setBorder(null);
         exitButton.addActionListener(new ActionListener() {
